@@ -1,11 +1,10 @@
-# 📘 Nonexistence of Global Solutions for the $p$-Laplacian Wave Equation
+# 📘 Nonexistence of nontrivial global weak solutions for damping p-Laplacian wave equations with combined nonlinearities
 
 ### Numerical Verification via Fourier Pseudo-Spectral and Integrating-Factor RK4 Methods
 
 This repository contains the numerical implementation and experiments for the paper:
 
-> **Nonexistence of nontrivial global weak solutions for damped $p$-Laplacian wave equations with combined nonlinearities**
-> *Yinting Liu, Housen Wang, and Qiang Liu*
+> Liu, Y., Wang, H., & Liu, Q. (2026). Nonexistence of nontrivial global weak solutions for damping p-Laplacian wave equations with combined nonlinearities. Communications in Nonlinear Science and Numerical Simulation, 109801.
 
 The goal is to numerically verify the finite-time blow-up predicted by theoretical results for the nonlinear damped $p$-Laplacian wave equation in two dimensions.
 
